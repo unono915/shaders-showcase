@@ -3,6 +3,8 @@
 [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) (npm `shaders`, MIT)를 활용한 예제 웹 페이지입니다.
 WebGPU 이펙트를 React 컴포넌트로 조합하는 11가지 활용 패턴을 한 페이지에 모았습니다.
 
+**Live demo:** https://shaders-showcase-kappa.vercel.app
+
 ## 실행
 
 ```bash
